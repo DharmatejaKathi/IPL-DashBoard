@@ -1,0 +1,26 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.match-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 200px;
+  margin: 18px;
+  background-color: #1e293b;
+  border-radius: 16px;
+  padding: 18px;
+  color: white;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.match-card-img {
+  width: 100px;
+  height: 100px;
+}
+.green {
+  color: #18ed66;
+}
+.red {
+  color: #e31a1a;
+}

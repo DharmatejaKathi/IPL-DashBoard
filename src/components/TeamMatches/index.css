@@ -1,0 +1,49 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.team-matches-container {
+  background-image: linear-gradient(to top, #5755a7, #d91c1f);
+  background-size: cover;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+}
+.banner {
+  height: 50vh;
+  margin-bottom: 12px;
+  width: 100%;
+}
+.latest {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 450;
+  margin-bottom: 12px;
+}
+.match-ul {
+  margin-top: 16px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.backButton {
+  width: 100px;
+  height: 33px;
+  margin-bottom: 12px;
+  background-color: transparent;
+  outline: none;
+  border: 2px solid;
+  border-radius: 12px;
+  color: azure;
+  font-size: 14px;
+  font-family: 'Roboto';
+  cursor: pointer;
+}
+.backButtonContainer {
+  display: flex;
+  justify-content: flex-end;
+}
+.loader {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,23 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.latest-match-container {
+  background-color: #1e293b;
+  padding: 23px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  font-family: 'Roboto';
+}
+.competing-team-img {
+  width: 180px;
+}
+.c-team {
+  color: white;
+  font-family: 'Bree serif';
+  font-size: 30px;
+  margin-bottom: 14px;
+}
+.details-container {
+  text-align: end;
+}

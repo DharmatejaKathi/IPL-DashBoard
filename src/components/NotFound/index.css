@@ -1,0 +1,14 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.not {
+  color: white;
+  font-family: 'Bree serif';
+  font-weight: 40px;
+}
+.Not-c {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+}
